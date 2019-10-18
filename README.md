@@ -1,31 +1,6 @@
-# Adonis fullstack application
+# CraigDrummond.com, an Adonis fullstack application
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+This is my first attempt to create a personal portfolio site using the 
+adonisjs node framework.  The frontend will be react and the datbase is mongodb.
 
-1. Bodyparser
-2. Session
-3. Authentication
-4. Web security middleware
-5. CORS
-6. Edge template engine
-7. Lucid ORM
-8. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+Please report bugs to https://github.com/D8ATech/craigdrummond/issues
